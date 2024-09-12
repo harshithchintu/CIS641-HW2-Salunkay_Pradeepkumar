@@ -25,11 +25,8 @@ I am passionate about continuous learning and eager to apply emerging technologi
 ---
 
 📫 **Contact Me:**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/harshithsp)
+- [GitHub](https://github.com/harshithchintu)
+- [Email](mailto:hspharshith@gmail.com)
 
----
-
-**Thank you for visiting my portfolio! Feel free to connect or reach out for collaborations and opportunities.**
 
