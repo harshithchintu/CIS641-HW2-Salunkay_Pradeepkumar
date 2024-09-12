@@ -2,7 +2,7 @@
 
 ## Harshith Salunkay Pradeepkumar
 
-![Profile Banner](https://www.imghippo.com/i/ohgYv1726160566.png)
+![Profile Banner](https://imagizer.imageshack.com/img923/9074/yJxZt8.png)
 
 ### 🚀 Interests
 - **Development**: Building cutting-edge applications and solving real-world problems through code.
