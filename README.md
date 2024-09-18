@@ -9,6 +9,13 @@
 - **Database Management**: Designing, optimizing, and maintaining databases for performance and scalability.
 - **Data Engineering**: Transforming and processing data to unlock valuable insights and drive decision-making.
 
+### 🖥️ Skills
+- **Programming languages**: JavaScript, Python, Node, NativeScript, HTML5, CSS
+- **Frameworks**: Flask, Vue, React
+- **Technologies**: Docker, Pandas, NumPy, NUMBA, Microservices, REST APIs
+- **Databases**: MongoDB, AWS, SQL, DataLake
+- **Tools**: GIT, Regex, Postman, Swagger, Jira, MS Office, Tableau
+
 ### 💼 Technical Background
 
 I bring hands-on experience in developing modern web applications and APIs. My background includes:
@@ -18,6 +25,12 @@ I bring hands-on experience in developing modern web applications and APIs. My b
 - **Database Optimization**: Enhancing database performance through efficient query design and schema optimization.
 
 I am passionate about continuous learning and eager to apply emerging technologies to new challenges. My objective is to contribute to impactful projects and grow as a technology professional.
+
+### 🛠️ Projects
+- OCR Recognition
+- Client Server Interaction
+- Browser Extension for password
+- Importance of parallelizing using NUMBA
 
 ### 🖼️ Favorite Meme
 ![Meme](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137832563/original/076bb0e0a1e4735f37829d90a0113bc61dccdb7e/do-some-dank-memes-and-i-can-edit-some-funny-videos.png)
