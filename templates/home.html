@@ -1,0 +1,46 @@
+<!--<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test Flask</title>
+    </head>
+    <body>
+        <h2>Welcome to the Home Page!</h2>
+        
+        <form action="{{ url_for('login') }}">
+            <button type="submit">Go to Login</button>
+        </form>
+
+        <form action="{{ url_for('register') }}">
+            <button type="submit">Register</button>
+        </form>
+        
+    </body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome to the Home Page</h1>
+
+    {% if username %}
+        <h2>Hello, {{ username }}!</h2>
+        <a href="{{ url_for('logout') }}">Logout</a><br>
+        <a href="{{ url_for('upload') }}">Upload Images</a><br>
+
+        <h2>Your Images:</h2>
+        <div class="slider-container">
+            <div class="slider">
+                {% for image in images %}
+                    <img src="{{ url_for('image', image_id=image.file_id) }}" alt="{{ image.filename }}" style="width: 100px; height: 100px;">
+                {% endfor %}
+            </div>
+        </div>
+    {% else %}
+        <a href="{{ url_for('login') }}">Login</a> or 
+        <a href="{{ url_for('register') }}">Register</a>
+    {% endif %}
+</body>
+</html>
